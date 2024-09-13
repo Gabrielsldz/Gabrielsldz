@@ -1,16 +1,17 @@
-## Hi there 👋
+# About Me
 
-<!--
-**Gabrielsldz/Gabrielsldz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer with experience in Java,JavaScript and Python. Proficient in frameworks such as Spring, fastAPI, Flask, and Django. Familiar with Docker, Kubernetes, and essential programming technologies.
 
-Here are some ideas to get you started:
+### Skills
+- **Languages:** Java, Python, HTML, CSS, JavaScript 
+- **Frameworks:** Spring, fastAPI, Flask, Django
+- **Tools:**
+  - **Containers:** Docker, Kubernetes
+  - **Version Control:** Git
+- **Security Concepts:** Basic knowledge of information security, including encryption, authentication, and secure coding practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+- **Languages:** Go
+- **Front-End Development:** Exploring general front-end technologies
+
+Languages spoken: Portuguese, English
